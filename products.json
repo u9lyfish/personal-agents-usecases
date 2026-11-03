@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Grok Bot",
+    "vendor": "xAI",
+    "aliases": [
+      "GrokBot",
+      "Grok bot",
+      "@bot"
+    ],
+    "search_terms": [
+      "\"Grok Bot\"",
+      "grokbot",
+      "\"grok bot\" 帮我"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Always-on personal agent from xAI with its own computer, email and phone; runs inside X/Grok and via Cursor subscription."
+  },
+  {
+    "name": "Meta Muse",
+    "vendor": "Meta",
+    "aliases": [
+      "Muse",
+      "Muse agent",
+      "@muse"
+    ],
+    "search_terms": [
+      "\"Muse agent\"",
+      "\"my Muse\"",
+      "Meta Muse"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Meta's personal agent, launched 2026-09-08. Exclude invite/referral-code posts (e.g. code 4X23B6, '1 billion tokens')."
+  },
+  {
+    "name": "OpenAI Dots",
+    "vendor": "OpenAI",
+    "aliases": [
+      "Dots",
+      "ChatGPT Dots",
+      "my Dot"
+    ],
+    "search_terms": [
+      "\"OpenAI Dots\"",
+      "\"ChatGPT Dots\"",
+      "\"my Dot\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Always-on ChatGPT agents with their own cloud computer. Not to be confused with 'Dotz'."
+  },
+  {
+    "name": "Claude Duet",
+    "vendor": "Anthropic",
+    "aliases": [
+      "Duet"
+    ],
+    "search_terms": [
+      "\"Claude Duet\"",
+      "\"my Duet\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Anthropic's proactive agent on Opus 5.5 (research preview from ~2026-10-21, US Pro/Max waitlist); morning brief, asks before sending/paying."
+  },
+  {
+    "name": "Manus Cue",
+    "vendor": "Manus",
+    "aliases": [
+      "Manus Q",
+      "Cue",
+      "@cue"
+    ],
+    "search_terms": [
+      "\"Manus Cue\"",
+      "\"Cue agent\"",
+      "Manus Q"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "'Manus Q' in the request is phonetically Manus Cue: launched with Manus 2.0 (~2026-09-28), invite-only; each agent gets its own email, phone number, wallet and computer. Many invite-code spam posts."
+  },
+  {
+    "name": "Today AI",
+    "vendor": "Today AI",
+    "aliases": [
+      "Today",
+      "@TodayAIofficial",
+      "国产grokbot"
+    ],
+    "search_terms": [
+      "\"Today AI\"",
+      "TodayAIofficial",
+      "Today AI 帮我"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Chinese personal AI assistant founded March 2026 by 齐俊元 (Teambition founder, ex-Doubao PC lead); domestic launch Sept 2026; >$200M raise Oct 2026; connects WeChat/Feishu/DingTalk. Lots of signup-promo spam."
+  },
+  {
+    "name": "LingGuang",
+    "vendor": "Ant Group",
+    "aliases": [
+      "灵光",
+      "灵光2.0",
+      "Ant LingGuang"
+    ],
+    "search_terms": [
+      "灵光 智能体",
+      "LingGuang",
+      "灵光 帮我"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Ant Group's AI assistant; LingGuang 2.0 (~2026-10-27) integrates Alipay, DingTalk, Feishu, email, Mi Home."
+  },
+  {
+    "name": "Gemini Spark",
+    "vendor": "Google",
+    "aliases": [
+      "Spark",
+      "Gemini Tasks"
+    ],
+    "search_terms": [
+      "\"Gemini Spark\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Google's always-on Gemini agent (since May 2026), later folded into 'Tasks' in the Gemini app."
+  },
+  {
+    "name": "Instinct",
+    "vendor": "Instinct AI",
+    "aliases": [
+      "@instinct",
+      "Instinct AI"
+    ],
+    "search_terms": [
+      "\"Instinct\" agent",
+      "\"my Instinct\"",
+      "instinct iMessage"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Invite-only personal agent used over iMessage/WhatsApp/SMS; supports group chats."
+  },
+  {
+    "name": "Hark",
+    "vendor": "Hark Labs",
+    "aliases": [
+      "@hark_labs",
+      "Hark AI"
+    ],
+    "search_terms": [
+      "Hark agent",
+      "hark_labs",
+      "\"my Hark\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Personal agent from Hark Labs (Brett Adcock)."
+  },
+  {
+    "name": "OpenClaw",
+    "vendor": "OpenClaw (open source)",
+    "aliases": [
+      "Clawdbot",
+      "Moltbot",
+      "NanoClaw"
+    ],
+    "search_terms": [
+      "OpenClaw",
+      "\"my claw\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Open-source self-hosted personal agent; the earliest of this wave; many forks (NanoClaw, MaxClaw, Kimi Claw)."
+  },
+  {
+    "name": "Hermes Agent",
+    "vendor": "Nous Research",
+    "aliases": [
+      "Hermes",
+      "NousResearch Hermes"
+    ],
+    "search_terms": [
+      "\"Hermes Agent\"",
+      "\"my Hermes\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Open-source self-hosted agent framework from Nous Research; also the base of Tencent LightVela."
+  },
+  {
+    "name": "Qwen Go",
+    "vendor": "Alibaba",
+    "aliases": [
+      "千问Go!",
+      "千问Go",
+      "千问 Go",
+      "Qwen Go!"
+    ],
+    "search_terms": [
+      "千问Go",
+      "\"Qwen Go\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Personal agent inside the Qwen (千问) app; invite test opened ~2026-10-13; cloud computer; Taobao/Fliggy/Alipay/Amap ecosystem. Seed record is a widely reported tester case."
+  },
+  {
+    "name": "Tencent LightVela",
+    "vendor": "Tencent",
+    "aliases": [
+      "LightVela",
+      "云端爱马仕"
+    ],
+    "search_terms": [
+      "LightVela"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Tencent's cloud-hosted Hermes-based personal agent with a free one-month trial. No first-hand use found in seed run."
+  },
+  {
+    "name": "Tencent WorkBuddy",
+    "vendor": "Tencent",
+    "aliases": [
+      "WorkBuddy"
+    ],
+    "search_terms": [
+      "WorkBuddy"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Tencent work agent. No first-hand use found in seed run."
+  },
+  {
+    "name": "Kimi Work",
+    "vendor": "Moonshot AI",
+    "aliases": [
+      "Kimi Claw",
+      "Kimi Work"
+    ],
+    "search_terms": [
+      "\"Kimi Claw\"",
+      "\"Kimi Work\""
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Moonshot's agent products. Seed run found only general complaints, no concrete use."
+  },
+  {
+    "name": "Doubao Agent",
+    "vendor": "ByteDance",
+    "aliases": [
+      "豆包",
+      "豆包手机助手"
+    ],
+    "search_terms": [
+      "豆包 智能体 帮我"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "ByteDance's Muse-style personal agent reported as in development; Doubao screen-reading agent blocked by many apps. No concrete use found."
+  },
+  {
+    "name": "Fo",
+    "vendor": "Wajo AI",
+    "aliases": [
+      "@wajo_ai"
+    ],
+    "search_terms": [
+      "\"Fo\" agent wajo"
+    ],
+    "first_seen": "2026-11-03",
+    "notes": "Personal agent that places phone calls; seed record is #Sponsored. Vendor inferred from @wajo_ai mention."
+  }
+]
