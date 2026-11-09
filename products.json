@@ -259,5 +259,18 @@
     ],
     "first_seen": "2026-11-03",
     "notes": "Personal agent that places phone calls; seed record is #Sponsored. Vendor inferred from @wajo_ai mention."
+  },
+  {
+    "name": "Quest",
+    "vendor": "Quest",
+    "aliases": [
+      "Quest agent"
+    ],
+    "search_terms": [
+      "\"Quest\" personal agent",
+      "VNallatamby"
+    ],
+    "first_seen": "2026-11-09",
+    "notes": "Personal agent launched ~2026-11-06 by @VNallatamby; builds 100+ wiki files on the user from day one, own Android phone, custom iOS mini-apps; believers-only access. No use-case records yet."
   }
 ]
