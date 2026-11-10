@@ -272,5 +272,57 @@
     ],
     "first_seen": "2026-11-09",
     "notes": "Personal agent launched ~2026-11-06 by @VNallatamby; builds 100+ wiki files on the user from day one, own Android phone, custom iOS mini-apps; believers-only access. No use-case records yet."
+  },
+  {
+    "name": "OpenBot",
+    "vendor": "OpenBot",
+    "aliases": [
+      "@OpenBot_",
+      "Openbot"
+    ],
+    "search_terms": [
+      "OpenBot_",
+      "openbot"
+    ],
+    "first_seen": "2026-11-10",
+    "notes": "Self-hosted 'one workspace for your team and AI coworkers' (founder Norbert Bodziony); free for personal use, works with any model/subscription; desktop + iOS apps; many users migrating from Grok Bot."
+  },
+  {
+    "name": "MausBot",
+    "vendor": "MausBot (open source)",
+    "aliases": [
+      "OpenMausBot",
+      "@mausbot_"
+    ],
+    "search_terms": [
+      "mausbot",
+      "OpenMausBot"
+    ],
+    "first_seen": "2026-11-10",
+    "notes": "Open-source, local-first Grok Bot alternative (Apache 2.0) with desktop and phone apps; bring your own agent/model logins."
+  },
+  {
+    "name": "Perplexity Teammates",
+    "vendor": "Perplexity",
+    "aliases": [
+      "Teammates"
+    ],
+    "search_terms": [
+      "\"Perplexity Teammates\""
+    ],
+    "first_seen": "2026-11-10",
+    "notes": "Always-on Perplexity agents that own ongoing jobs (announced ~2026-11-04); research preview on Max ($200/mo), web only. No first-hand use found yet."
+  },
+  {
+    "name": "Rerun",
+    "vendor": "Rerun",
+    "aliases": [
+      "@rerun_build"
+    ],
+    "search_terms": [
+      "rerun_build"
+    ],
+    "first_seen": "2026-11-10",
+    "notes": "Self-hostable business/open-source Grok Bot alternative ('AI coworkers'). No first-hand use found yet."
   }
 ]
