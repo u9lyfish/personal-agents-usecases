@@ -324,5 +324,32 @@
     ],
     "first_seen": "2026-11-10",
     "notes": "Self-hostable business/open-source Grok Bot alternative ('AI coworkers'). No first-hand use found yet."
+  },
+  {
+    "name": "Nod",
+    "vendor": "n8n",
+    "aliases": [
+      "n8n Nod",
+      "Nod agent"
+    ],
+    "search_terms": [
+      "\"n8n\" Nod",
+      "\"Nod agent\""
+    ],
+    "first_seen": "2026-11-11",
+    "notes": "Free, open-source (Apache 2.0) personal agent from n8n Labs, research preview launched ~2026-11-10 for macOS/Windows; runs in a local sandbox VM with its own browser, uses your own AI provider, asks before acting (e.g. cancels subscriptions, watches prices). No first-hand use found yet."
+  },
+  {
+    "name": "Pots",
+    "vendor": "Pots (open source)",
+    "aliases": [
+      "Pots agent"
+    ],
+    "search_terms": [
+      "\"Pots\" Grok Bot alternative",
+      "Crokily_"
+    ],
+    "first_seen": "2026-11-11",
+    "notes": "Open-source Grok Bot alternative launched ~2026-11-11 by @Crokily_: an AI coworker living in Slack/Discord/Telegram that reads channels and works on its own computer, any model/subscription. No first-hand use found yet."
   }
 ]
