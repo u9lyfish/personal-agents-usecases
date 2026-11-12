@@ -351,5 +351,18 @@
     ],
     "first_seen": "2026-11-11",
     "notes": "Open-source Grok Bot alternative launched ~2026-11-11 by @Crokily_: an AI coworker living in Slack/Discord/Telegram that reads channels and works on its own computer, any model/subscription. No first-hand use found yet."
+  },
+  {
+    "name": "Tab",
+    "vendor": "Tab",
+    "aliases": [
+      "Tab agent"
+    ],
+    "search_terms": [
+      "\"my Tab\" agent",
+      "Tab Instinct Hark"
+    ],
+    "first_seen": "2026-11-12",
+    "notes": "SMS/iMessage personal agent that users list alongside Hark, Instinct, Muse and Dot (e.g. a user's Instinct and Tab email each other). Vendor/official handle not yet verified. No first-hand use record yet."
   }
 ]
