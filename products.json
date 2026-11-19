@@ -116,7 +116,8 @@
       "Gemini Tasks"
     ],
     "search_terms": [
-      "\"Gemini Spark\""
+      "\"Gemini Spark\"",
+      "\"Gemini Tasks\""
     ],
     "first_seen": "2026-11-03",
     "notes": "Google's always-on Gemini agent (since May 2026), later folded into 'Tasks' in the Gemini app."
