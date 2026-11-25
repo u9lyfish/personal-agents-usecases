@@ -241,13 +241,19 @@
     "vendor": "ByteDance",
     "aliases": [
       "豆包",
-      "豆包手机助手"
+      "豆包手机助手",
+      "小豆",
+      "Xiaodou",
+      "豆包小豆"
     ],
     "search_terms": [
-      "豆包 智能体 帮我"
+      "豆包 智能体 帮我",
+      "字节小豆",
+      "小豆 帮我",
+      "\"我的小豆\""
     ],
     "first_seen": "2026-11-03",
-    "notes": "ByteDance's Muse-style personal agent reported as in development; Doubao screen-reading agent blocked by many apps. No concrete use found."
+    "notes": "ByteDance personal agent; the consumer app is branded 小豆 (Xiaodou), with a public beta opening ~2026-11-24. Agents can place calls and handle personal tasks such as Feishu/Douyin workflows. Invite-code and launch-news posts are common. A separate Doubao screen-reading phone assistant has been blocked by many apps."
   },
   {
     "name": "Fo",
