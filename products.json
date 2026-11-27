@@ -371,5 +371,21 @@
     ],
     "first_seen": "2026-11-12",
     "notes": "SMS/iMessage personal agent that users list alongside Hark, Instinct, Muse and Dot (e.g. a user's Instinct and Tab email each other). Vendor/official handle not yet verified. No first-hand use record yet."
+  },
+  {
+    "name": "WeChat Xiaowei",
+    "vendor": "Tencent",
+    "aliases": [
+      "微信小微",
+      "小微",
+      "Xiaowei"
+    ],
+    "search_terms": [
+      "微信小微",
+      "\"小微\" 智能体",
+      "\"我的小微\""
+    ],
+    "first_seen": "2026-11-27",
+    "notes": "Tencent personal agent that lives inside WeChat (surfaced around 2026-11 alongside Xiaodou). Can explain official-account text in place, group Moments by topic (recent two days), start mini-program orders but stops before payment, and requires confirmation before sending messages or transferring money. A reported tester found scheduled messages were sent immediately instead of waiting. Distinct from Tencent WorkBuddy and LightVela."
   }
 ]
